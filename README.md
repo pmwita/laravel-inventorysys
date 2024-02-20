@@ -1,2 +1,1 @@
-# laravel-inventorysys
-laravel inventory system
+## Laravel Inventory
